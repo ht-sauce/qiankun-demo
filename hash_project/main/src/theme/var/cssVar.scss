@@ -1,0 +1,43 @@
+:root {
+  // 主颜色
+  --main-color: #{$main-color};
+  --primary-1: #{$primary-1};
+  --primary-2: #{$primary-2};
+  --primary-3: #{$primary-3};
+  --primary-4: #{$primary-4};
+  --primary-5: #{$primary-5};
+  --primary-6: #{$primary-6};
+  --primary-7: #{$primary-7};
+  --primary-8: #{$primary-8};
+  --primary-9: #{$primary-9};
+  // 基础颜色
+  --white: #{$white};
+  --black: #{$black};
+  // 四色提醒
+  --success: #{$success};
+  --warn: #{$warn};
+  --error: #{$error};
+  --info: #{$info};
+  // 字体颜色
+  --font-color: #{$font-color};
+  --font-color-second: #{$font-color-second};
+  --font-disable: #{$font-disable};
+  // 灰色系配置
+  --grey-96: #{$grey-96};
+  --grey-94: #{$grey-94};
+  --grey-80: #{$grey-80};
+  // 字体大小
+  --h1-32: #{$h1-32};
+  --h2-24: #{$h2-24};
+  --h3-20: #{$h3-20};
+  --h4-16: #{$h4-16};
+  --h5-14: #{$h5-14}; // 主要展示字体
+  --h6-12: #{$h6-12};
+  // 边框色彩
+  --border-1: #{$border-1};
+  --border-2: #{$border-2};
+  --border-3: #{$border-3};
+  // 阴影颜色
+  --shadow-color: #{$shadow-color};
+  --box-shadow: #{$box-shadow};
+}

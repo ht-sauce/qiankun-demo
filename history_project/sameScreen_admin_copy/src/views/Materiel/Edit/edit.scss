@@ -1,0 +1,13 @@
+.button-opt {
+  position: fixed;
+  left: 1030px;
+  z-index: 10;
+  background: #fff;
+}
+.tabs-style {
+  width: 982px;
+}
+// 修复单项tab消失问题
+.one-item {
+  display: block !important;
+}

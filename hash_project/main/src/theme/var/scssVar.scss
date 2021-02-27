@@ -1,0 +1,52 @@
+@import "../fuc/generateColor.scss"; // 参考antDesgin设计颜色变换
+
+// 总体颜色
+$main-color: #409eff; // 主颜色
+
+$white: #fff;
+$black: #000;
+
+// 四色提醒
+$success: #67C23A;
+$warn: #E6A23C;
+$error: #F56C6C;
+$info: #909399;
+
+$primary-1: generateColor($main-color, 5, true);
+$primary-2: generateColor($main-color, 4, true);
+$primary-3: generateColor($main-color, 3, true);
+$primary-4: generateColor($main-color, 2, true);
+$primary-5: generateColor($main-color, 1, true);
+$primary-color: $main-color;
+$primary-6: generateColor($main-color, 1, false);
+$primary-7: generateColor($main-color, 2, false);
+$primary-8: generateColor($main-color, 3, false);
+$primary-9: generateColor($main-color, 4, false);
+
+// 字体颜色
+$font-color: lighten($black, 10%);
+$font-color-second: lighten($black, 30%);
+$font-disable: lighten($black, 60%);
+// 灰色系配置
+$grey-96: lighten($black, 96%);
+$grey-94: lighten($black, 94%);
+$grey-80: lighten($black, 80%);
+
+// 字体大小
+$h1-32: 32px;
+$h2-24: 24px;
+$h3-20: 20px;
+$h4-16: 16px;
+$h5-14: 14px; // 主要展示字体
+$h6-12: 12px;
+
+// 边框色彩
+$border-1: darken($white, 8%);
+$border-2: darken($white, 6%);
+$border-3: darken($white, 4%);
+
+// 阴影颜色
+$shadow-color: rgba(0, 0, 0, 0.5);
+$box-shadow: 0 0 4px 0 darken($white, 20%);
+
+// 页面颜色变量

@@ -1,0 +1,6 @@
+@import "rest.scss"; // 重置html元素
+// 以下两组将决定换肤变量颜色
+@import "./var/scssVar";
+@import "./var/cssVar"; // 全局变量
+
+@import "elementUI/index"; // 按需加载组件库样式丢失补全, 或者重置部分样式

@@ -1,0 +1,58 @@
+{
+  "id": "1997806",
+  "name": "同屏数字人后台",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16448941",
+      "name": "眼睛",
+      "font_class": "yanjing",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "16448942",
+      "name": "组织管理",
+      "font_class": "zuzhiguanli",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "16448943",
+      "name": "用户管理",
+      "font_class": "yonghuguanli",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "16448944",
+      "name": "产品管理",
+      "font_class": "chanpinguanli",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "16448945",
+      "name": "帐号管理",
+      "font_class": "zhanghaoguanli",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "16448946",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "4765881",
+      "name": "dashboard",
+      "font_class": "dashboard",
+      "unicode": "e78b",
+      "unicode_decimal": 59275
+    }
+  ]
+}
